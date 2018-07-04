@@ -1,4 +1,4 @@
-# eslint-config-vue-impression
+# eslint-config-vue-impression has been moved into [generator](https://github.com/NewDadaFE/generator)
 
 [style-guide](https://github.com/NewDadaFE/style-guide)
 
