@@ -1,5 +1,3 @@
-已废弃，迁移到[generator](https://github.com/NewDadaFE/generator)
-
 # eslint-config-vue-impression
 
 [style-guide](https://github.com/NewDadaFE/style-guide)
